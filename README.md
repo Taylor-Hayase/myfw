@@ -1,5 +1,5 @@
 # myfw
-C implementation of word frequency
+C implementation of word frequency - written in collaboration with Ryan Premi
 
 Compile with make
 This program will take in a file, or multilpe files and returns the top 10 most frequent words and their count
